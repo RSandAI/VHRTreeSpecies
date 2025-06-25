@@ -1,6 +1,6 @@
 # VHRTreeSpecies
 ## Dataset Description
-The VHRTreeSpecies dataset includes very high-resolution RGB satellite images obtained from Google Earth Pro, featuring 15 dominant tree species from diverse forest regions of Türkiye. The species labels were derived from the General Directorate of Forestry (OGM) Forest Stand Type Maps to ensure accurate classification. The dataset consists of 256x256 pixel patches extracted from large-scale forest imagery, preprocessed and structured to facilitate deep learning experiments.
+The VHRTreeSpecies dataset includes very high-resolution RGB satellite images, featuring 15 dominant tree species from diverse forest regions of Türkiye. The species labels were derived from the General Directorate of Forestry (OGM) Forest Stand Type Maps to ensure accurate classification. The dataset consists of 256x256 pixel patches extracted from large-scale forest imagery, preprocessed and structured to facilitate deep learning experiments.
 
 The dataset comprises 15 dominant tree species, including Abies spec. (Fir), Alnus spec. (Alder), Carpinus (Hornbeam), Castanea spec. (Chestnut), Cedrus (Cedar), Fagus spec. (Beech), Juniperus spec. (Juniper), Picea spec. (Spruce), Pinus brutia (Red Pine), Pinus nigra (Black Pine), Pinus pinaster (Maritime Pine), Pinus pinea (Stone Pine), Pinus sylvestris (Scots Pine), Quercus petraea (Sessile Oak), and Quercus robur (English Oak).
 
