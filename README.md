@@ -36,3 +36,8 @@ The dataset has been evaluated using state-of-the-art deep learning models, incl
 |   YOLOv11-l   |   93.50   |   93.05  |  93.24   |        94.19        |
 
 *The pre-trained models and weights can be found [here](https://drive.google.com/drive/folders/1j9ub972-85Gi3xIQyj9h3ZB7k_pusqUp?usp=drive_link)*
+
+# Citation:
+Please kindly cite our [paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2522394?src=) if this code and the dataset used in the study are useful for your research.
+
+Sertel, Elif, and Sule Nur Topgul. 2025. “Comparative Analysis of Deep Learning Approaches for Forest Stand Type Classification: Insights from the New VHRTreeSpecies Benchmark Dataset.” International Journal of Digital Earth 18 (1). doi:10.1080/17538947.2025.2522394.
